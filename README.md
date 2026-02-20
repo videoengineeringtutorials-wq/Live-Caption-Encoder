@@ -168,6 +168,8 @@ Linger     750 ms
 
 ## audioWhisper Integration (STT.py)
 
+It is highly recommended to run this on another computer. NVidia Graphics card with at least 10 Gigs of ram and CUDA cores. Works great on a P6000 with the Large models.
+
 Setup:
 
 1. Clone audioWhisper:
