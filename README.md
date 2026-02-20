@@ -168,8 +168,6 @@ Linger     750 ms
 
 ## audioWhisper Integration (STT.py)
 
-Your included `STT.py` is a modified version of the audioWhisper project’s runner.
-
 Setup:
 
 1. Clone audioWhisper:
